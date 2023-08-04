@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 git pull
+=======
+#!/bin/bash
+git fetch origin
+git merge origin/main
+>>>>>>> update_script
